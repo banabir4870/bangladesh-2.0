@@ -258,3 +258,113 @@ nav{
     color: #0e0e0e7a;
     margin-bottom: 12px;
 }
+.donate{
+    margin-bottom: 80px;
+}
+.donate-container{
+    text-align: center;
+}
+
+.donate-container h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-bottom: 24px;
+}
+.donate-container p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0e0e0e70;
+    padding: 0 88px;
+    margin-bottom: 32px;
+}
+.donate-container .tk{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 105px;
+    margin-bottom: 32px;
+}
+.donate-container .tk h3{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0e0e0ec9;
+    padding: 40px;
+    background-color: #FFFFFF;
+    border: 1px solid #0e0e0e15;
+    border-radius: 16px;
+}
+.donate-container .tk .taka{
+    background-color: #C6E4D6;
+}
+.donate-container .other{
+    background-color: #FFFFFF;
+    margin: 0 124px;
+    padding: 20px 423px;
+    margin: 32px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #0e0e0e44;
+}
+.donate-container .btn{
+    background-color: #006A50;
+    color: #FFFFFF;
+
+}
+.subscribe{
+    margin-bottom: 80px;
+}
+
+.subscribe .subscribe-container{
+    text-align: center;
+    background-color: #C6E4D6;
+    padding: 80px 265px;
+    border-radius: 24px;
+}
+
+.subscribe-container h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-bottom: 16px;
+}
+.subscribe-container p{
+    padding: 0px 64px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #0e0e0e83;
+    margin-bottom: 24px;
+}
+.subscribe-container .mail{
+    margin-bottom: 25px;
+    gap: 0px;
+}
+.subscribe-container .email{
+    border: none;
+    border-radius: 5px;
+    padding: 18px 400px 18px 40px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.subscribe-container .btn{
+    background-color: #006A50;
+    color: #FFFFFF;
+
+}
+footer{
+    padding: 50px 239px;
+}
+.footer-container{
+    text-align: center;
+}
+
+.footer-container h2{
+    font-size: 32px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-bottom: 32px;
+}
+.footer-container hr{
+    margin-bottom: 30px;
+    border: 1px solid #0e0e0e15;
+}
+
